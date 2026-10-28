@@ -1,2 +1,2 @@
-# RNE
-working hard for the exam
+# spbgpmu
+only latin yet
